@@ -1,0 +1,9 @@
+
+            Cost              DS            Search Type
+DFS          No             Stack            UnInformed
+BFS          No             Queue            UnInformed
+UCS         g(n)         PriorityQueue       UnInformed
+Greedy      h(n)         PriorityQueue        Informed
+A*        g(n)+h(n)      PriorityQueue        Informed
+
+Genetic is advanced developed search technique
